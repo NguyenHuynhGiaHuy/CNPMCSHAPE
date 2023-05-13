@@ -1,0 +1,217 @@
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\WindowsFormsApp1caphe1.exe.config
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\WindowsFormsApp1caphe1.exe
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\WindowsFormsApp1caphe1.pdb
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.csproj.AssemblyReference.cache
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.csproj.SuggestedBindingRedirects.cache
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.Form1.resources
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.frmDangnhap.resources
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.Properties.Resources.resources
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.csproj.GenerateResource.cache
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.csproj.CoreCompileInputs.cache
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.exe
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.pdb
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.frmBanhang.resources
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.frmQuanly.resources
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.frmCTrinh.resources
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.frmThongKe.resources
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.frmMatkhaumoi.resources
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.frmThanhtoanhoadon.resources
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.frmCaidat.resources
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\EnvDTE.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\stdole.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\Microsoft.MSXML.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Công nghệ phần mền\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.csproj.CopyComplete
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\WindowsFormsApp1caphe1.exe.config
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\WindowsFormsApp1caphe1.exe
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\WindowsFormsApp1caphe1.pdb
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\EnvDTE.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\stdole.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.csproj.AssemblyReference.cache
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.csproj.SuggestedBindingRedirects.cache
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.Form1.resources
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.frmBanhang.resources
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.frmCTrinh.resources
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.frmMatkhaumoi.resources
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.frmCaidat.resources
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.frmDangnhap.resources
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.frmQuanly.resources
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.frmThongKe.resources
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.Properties.Resources.resources
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.frmThanhtoanhoadon.resources
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.csproj.GenerateResource.cache
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.csproj.CoreCompileInputs.cache
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.csproj.CopyComplete
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.exe
+D:\CNPM\image2\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.pdb
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\WindowsFormsApp1caphe1.exe.config
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\WindowsFormsApp1caphe1.exe
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\WindowsFormsApp1caphe1.pdb
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\EnvDTE.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\stdole.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.csproj.AssemblyReference.cache
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.csproj.SuggestedBindingRedirects.cache
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.Form1.resources
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.frmBanhang.resources
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.frmCTrinh.resources
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.frmMatkhaumoi.resources
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.frmCaidat.resources
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.frmDangnhap.resources
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.frmQuanly.resources
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.frmThongKe.resources
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.Properties.Resources.resources
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.frmThanhtoanhoadon.resources
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.csproj.GenerateResource.cache
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.csproj.CoreCompileInputs.cache
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.csproj.CopyComplete
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.exe
+D:\CNPM\CNPMCSHAPE\image2\WindowsFormsApp1caphe1\obj\Debug\WindowsFormsApp1caphe1.pdb
