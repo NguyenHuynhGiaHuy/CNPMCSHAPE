@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DAO",
+    "\\Resources"
   ],
-  "SelectedNode": "\\WindowsFormsApp1caphe1.sln",
+  "SelectedNode": "\\DAO\\ChiTietHoaDonDAO.cs",
   "PreviewInSolutionExplorer": false
 }
